@@ -14,5 +14,6 @@
 .externalNativeBuild
 .cxx
 local.properties
-.log
+*.log
 /.idea/
+/.gradle/
